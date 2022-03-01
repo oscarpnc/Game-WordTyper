@@ -1,1 +1,1 @@
-# Game-WordTyper
+# Word Typer
